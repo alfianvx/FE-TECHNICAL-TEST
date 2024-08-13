@@ -1,0 +1,11 @@
+Front End - Web Developer Intern Test PT AKSAMEDIA MULIA DIGITAL
+
+KREDENSIAL UNTUK LOGIN KE DASHBOARD :
+USERNAME = admin
+PASSWORD = admin123
+
+WEBSITE TERDIRI DARI 3 PAGE :
+
+1. Login
+2. Dashboard
+3. Profile
